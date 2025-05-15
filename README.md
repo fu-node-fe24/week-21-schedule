@@ -26,8 +26,16 @@ När du är klar med denna modul kommer du kunna bygga stabila och datadrivna ba
 
 **Förinspelat** (för distansklassen)
 
+* [01 - Databaser : Koncept](https://vimeo.com/811926334/57b73d5e03)
+* [02 - Datamodellering : Koncept](https://vimeo.com/811926700/5e9b6894af)
+* [03 - Databaser : Konfigurering](https://vimeo.com/1084610688/29a61854da?share=copy)
+* [04 - Databaser : Kod]()
+
 ### Lektionsrepon
 
+* [19 maj](https://github.com/fu-node-fe24/week-21-lecture-19-maj)
+* [20 maj](https://github.com/fu-node-fe24/week-21-lecture-20-maj)
+* [21 maj](https://github.com/fu-node-fe24/week-21-lecture-21-maj)
 
 ### Filmer
 
