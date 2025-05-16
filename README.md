@@ -45,5 +45,6 @@ När du är klar med denna modul kommer du kunna bygga stabila och datadrivna ba
 * [MongoDB](https://www.mongodb.com/)
 * [MongoDBCompass, download](https://www.mongodb.com/products/tools/compass)
 * [MongoDB <3 Mongoose, dokumentation](https://www.mongodb.com/developer/languages/javascript/getting-started-with-mongodb-and-mongoose/)
+* [What is noSQL?](https://www.mongodb.com/resources/basics/databases/nosql-explained)
 
 ### Övningar 
