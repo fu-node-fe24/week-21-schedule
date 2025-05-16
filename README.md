@@ -51,3 +51,5 @@ När du är klar med denna modul kommer du kunna bygga stabila och datadrivna ba
 * [What is noSQL?](https://www.mongodb.com/resources/basics/databases/nosql-explained)
 
 ### Övningar 
+
+* [MongoDB Bootcamp](https://github.com/fu-node-fe24/week-21-mongodb-bootcamp/tree/main)
