@@ -29,7 +29,9 @@ När du är klar med denna modul kommer du kunna bygga stabila och datadrivna ba
 * [01 - Databaser : Koncept](https://vimeo.com/811926334/57b73d5e03)
 * [02 - Datamodellering : Koncept](https://vimeo.com/811926700/5e9b6894af)
 * [03 - Databaser : Konfigurering](https://vimeo.com/1084610688/29a61854da?share=copy)
-* [04 - Databaser : Kod]() - finns inte ännu
+* [04 - Databaser : Kod](https://vimeo.com/1084944396/ed8c72e00b?share=copy)
+* [05 - Middlewares](https://vimeo.com/809659868/a78c10b2ce) - till tisdag
+* [06 - Autentisera API-nyckel med Middleware](https://vimeo.com/816337830/51ad2d71b5) - till tisdag
 
 ### Lektionsrepon
 
@@ -39,6 +41,7 @@ När du är klar med denna modul kommer du kunna bygga stabila och datadrivna ba
 
 ### Filmer
 
+* [Node.js Crash Course Tutorial #9 - MongoDB](https://www.youtube.com/watch?v=bxsemcrY4gQ&t=1728s)
 
 ### Länkar
 
