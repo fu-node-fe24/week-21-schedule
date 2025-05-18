@@ -19,6 +19,7 @@ När du är klar med denna modul kommer du kunna bygga stabila och datadrivna ba
 
 ### Presentationer
 
+* [01 - Databasmodellering](https://docs.google.com/presentation/d/15yiqAdrCCCX0cN6aF5izn-DIiHOaXBa0/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 
@@ -53,3 +54,4 @@ När du är klar med denna modul kommer du kunna bygga stabila och datadrivna ba
 ### Övningar 
 
 * [MongoDB Bootcamp](https://github.com/fu-node-fe24/week-21-mongodb-bootcamp/tree/main)
+* [Todo API](https://github.com/fu-node-fe24/week-21-exercise-todo-api/tree/main)
