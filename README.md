@@ -25,6 +25,8 @@ När du är klar med denna modul kommer du kunna bygga stabila och datadrivna ba
 
 **LIVE**
 
+* [Databaser och MongoDB, 19 maj](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EcV9_E-0VlxJs0qg-2CIHxYBlGbYlWqGr_yg4ZbnfP9Olg?e=vugjq8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 **Förinspelat** (för distansklassen)
 
 * [01 - Databaser : Koncept](https://vimeo.com/811926334/57b73d5e03)
