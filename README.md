@@ -26,6 +26,7 @@ När du är klar med denna modul kommer du kunna bygga stabila och datadrivna ba
 **LIVE**
 
 * [Databaser och MongoDB, 19 maj](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EcV9_E-0VlxJs0qg-2CIHxYBlGbYlWqGr_yg4ZbnfP9Olg?e=vugjq8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* [Livekodning BlogAPI, 20 maj](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Distans/EZTxx5mSdhxAqZOV51JIE8YBGCOtjYs3Rlkd3ytWZE13ig?e=m5cWp3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) - distans
 
 **Förinspelat** (för distansklassen)
 
